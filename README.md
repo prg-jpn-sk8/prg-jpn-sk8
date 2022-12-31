@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prg-jpn-sk8
 - 👀 I’m interested in os dev, game dev, web dev, software dev, data science dev, AI dev
-- 🌱 I’m currently learning assembly, rust, python, html, css, javascript
+- 🌱 I’m currently learning assembly, rust, python, html, css, javascript, ruby
 - 💞️ I’m looking to collaborate on ghassenwoof
 - 📫 How to reach me ...
 
