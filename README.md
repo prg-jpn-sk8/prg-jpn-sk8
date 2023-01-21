@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @prg-jpn-sk8
 - 👀 I’m interested in os dev, game dev, web dev, software dev, data science dev, AI dev
-- 🌱 I’m currently learning assembly, rust, python, html, css, javascript, ruby, go, php,typescript, java, C/C++, MySQL, MATLAB, C#, R, xml, Perl, Lua, Scala
+- 🌱 I’m currently learning rust, python, html, css, javascript, typescript, MySQL
+- Package Manager: cargo, npn, pypi
+- Languages: Assembly, java, Lua, python, Rust
 - 💞️ I’m looking to collaborate on ghassenwoof
 - 📫 How to reach me ...
 
