@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prg-jpn-sk8
-- 👀 I’m interested in os dev, game dev, web dev, software dev, data science dev, AI dev
+- 👀 I’m interested in os dev, game dev, full stack dev, software dev, data science dev, AI dev
 - 🌱 I’m currently learning rust, python, html, css, javascript, typescript, mySQL, ruby
 - Package Manager: cargo, npn, pypi
 - Languages: Assembly, java, Lua, python, Rust
